@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Chanchal.</h1>
 <h3 align="center">Full Stack Web Developer From Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xhanxhal&label=Profile%20views&color=0e75b6&style=flat" alt="xhanxhal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xhanxhal&label=Profile%20views&color=0e75b6&style=flat" alt="xhanxhal" /> </p>
 
 - 🌱 I’m currently learning **Web Development And Software Development**
 
-- 👨‍💻 All of my projects are available at [https://xhanxhal.github.io/](https://xhanxhal.github.io/)
+- 👨‍💻 All of my projects are available at: [https://xhanxhal.github.io/](https://xhanxhal.github.io/)
 
-- 📝 I regularly write articles on [https://trickbd.com/author/haxortuntuni](https://trickbd.com/author/haxortuntuni)
+- 📝 I regularly write articles on: [https://trickbd.com/author/haxortuntuni](https://trickbd.com/author/haxortuntuni)
 
-- 📫 How to reach me **chanchalislamofficial@gmail.com**
+- 📫 How to reach me: **chanchalislamofficial@gmail.com**
 
-- 📄 Know about my experiences [https://xhanxhal.github.io/assets/Chanchal-cv.pdf](https://xhanxhal.github.io/assets/Chanchal-cv.pdf)
+- 📄 Know about my experiences: [https://xhanxhal.github.io/assets/Chanchal-cv.pdf](https://xhanxhal.github.io/assets/Chanchal-cv.pdf)
 
-- ⚡ Fun fact **In my friend group, I am known as Tuntuni🐤**
+- ⚡ Fun fact: **In my friend group, I am known as Tuntuni🐤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
