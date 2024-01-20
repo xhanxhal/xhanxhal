@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chanchal.</h1>
-<h3 align="center">Full Stack Web Developer From Bangladesh.</h3>
+<h3 align="center">Ethical Hacker From Bangladesh.</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xhanxhal&label=Profile%20views&color=brightgreen&style=flat" alt="xhanxhal" /> </p>
 
-- 🌱 I’m currently learning **Web Development And Software Development**
+- 🌱 I’m currently learning **Certified Ethical Hacking (CEH)**
 
 - 👨‍💻 All of my projects are available at: [https://xhanxhal.github.io/](https://xhanxhal.github.io/)
 
